@@ -1,5 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: lightgray;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+p {
+    text-align: center;
+    color: darkblue;
+    size: 20px;
 }
